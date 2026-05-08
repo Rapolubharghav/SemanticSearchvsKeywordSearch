@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+raw_analyst_ratings.csv
+raw_partner_headlines.csv
+analyst_ratings_processed.csv
